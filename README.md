@@ -1,5 +1,5 @@
 
-# Amirul Shafiq - Aspiring analyst
+# Amirul Shafiq - Aspiring analyst with a background in food science
 [![resume](https://img.shields.io/badge/resume-233c67?style=for-the-badge&)](https://drive.google.com/file/d/10etdygITQvveosh0T5b7PAIu1fxdwfBy/view?usp=sharing) <t/> [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/shafiq-g)
 
 
