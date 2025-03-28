@@ -17,7 +17,7 @@ Other than data analysis, things I do for fun include reading about history and 
 ## 🛠 Skills
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) <t/> ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <t/> ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) <t/> ![Tableau](https://img.shields.io/badge/Tableau-39477F?style=for-the-badge&logo=realm&logoColor=white) <t/> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <t/> ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) <t/> ![Google Workspace](https://img.shields.io/badge/Google_Workspace-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-## :blue_book: Table of Contents
+# :blue_book: Table of Contents
 - [Portfolio Projects](https://github.com/amirulshafiq98#bar_chart-portfolio-projects)
     - [SQL](https://github.com/amirulshafiq98#sql)
         - [Olist E-commerce Data Exploration](https://github.com/amirulshafiq98#olist-e-commerce-data-exploration)
