@@ -1,20 +1,17 @@
 
-# Amirul Shafiq - Aspiring analyst with a background in food science
+# 📊 Amirul Shafiq's Data Analytics Portfolio
+
+Hi, I'm Amirul — a data enthusiast with a Bachelor's in Food Technology from the Singapore Institute of Technology (graduating October 2025). Over the past four years, I've immersed myself in analysing diverse datasets to assess the viability of novel food products developed during my undergraduate studies. This experience honed my skills in data analysis and storytelling to effectively engage stakeholders.
+
+My pivotal moment came during an internship at Chiang Mai University, Thailand, where I assisted local beekeepers in determining optimal honey storage conditions. Despite collecting extensive data over 12 weeks, initial results were inconclusive. This challenge sparked my deep interest in data analysis, driving me to uncover actionable insights before returning to Singapore.
+
+Beyond data, I enjoy exploring history, playing football (soccer), and continuously learning new skills — be it technical projects or enhancing communication abilities. I thrive in collaborative environments, believing that the best ideas emerge through teamwork.
+
 [![resume](https://img.shields.io/badge/resume-233c67?style=for-the-badge&)](https://drive.google.com/file/d/1x6n97tMACP2pK1ye9MLdkdUSMU23LG0V/view?usp=sharing) <t/> [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/shafiq-g/)
 
+---
 
-
-
-## 🚀 About Me
-Hi, I am Amirul and I am passionate about analysing data. I have a Bachelor's in Food Science where I have spent the last 4 years analysing dozens of datasets to determine the viability of the foods that I have developed in my undergrad. Over the years I have honed my ability not just to analyse data but also in storytelling to engage various stakeholders. In my capstone project, I was tasked to create a novel food product from scratch. This was where I developed skills such as data management, asking insightful questions and understanding stakeholder needs, skills that every analyst can benefit from. As a scientist, I have to be methodical with my approach to solving problems which is a transferable skill in the field of data analytics due to the sheer volume of dealing with messy datasets.
-
-The reason why I chose to move away from the food industry was due to my experience during my internship in Thailand. At Chiang Mai University (CMU), I worked on a project where I helped Thai bee keepers with their storage of honey as they were not sure on how to maintain the quality over a period of time. My job was to find out, the best possible storage condition for two different types of honey in 7 months. After collating all the neccesary parameters, the data was inconclusive despite having 10 weeks worth of data for each type of honey. This led me down the rabbit hole of data analysis to give them an answer before I went back to Singapore. This was the point that started my data analysis journey solving real world problems using data.
-
-Other than data analysis, things I do for fun include reading about history and playing football (soccer for the Americans). I also enjoy learning new skills be it technical like the projects below or communication to be able to learn from others and ask probing questions. I love working in a team as I believe that the best ideas can only be born when working together.
-
-
-
-## 🛠 Skills
+# 🛠 Skills
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) <t/> ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <t/> ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) <t/> ![Tableau](https://img.shields.io/badge/Tableau-39477F?style=for-the-badge&logo=realm&logoColor=white) <t/> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <t/> ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) <t/> ![Google Workspace](https://img.shields.io/badge/Google_Workspace-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 # :blue_book: Table of Contents
@@ -22,121 +19,179 @@ Other than data analysis, things I do for fun include reading about history and 
     - [SQL](https://github.com/amirulshafiq98#sql)
         - [Olist E-commerce Data Exploration](https://github.com/amirulshafiq98#olist-e-commerce-data-exploration)
         - [Cafe Promotions Data Cleaning](https://github.com/amirulshafiq98#cafe-promotions-data-cleaning)
-    - [Visualisation (Tableau & Power BI)](https://github.com/amirulshafiq98#tableau-and-power-bi)
+    - [Visualisation (Tableau & Power BI)](https://github.com/amirulshafiq98#visualisation-tableau-and-power-bi)
         - [Cafe Promotions Daily Insights](https://github.com/amirulshafiq98#cafe-promotions-daily-insights)
-        - [Olist E-commerce Sales Data (2016-2018)](https://github.com/amirulshafiq98#olist-e-commerce-sales-data)
+        - [Superstore Data](https://github.com/amirulshafiq98#superstore-data)
+        - [Olist E-commerce Sales Data](https://github.com/amirulshafiq98#olist-e-commerce-sales-data)
     - [Python](https://github.com/amirulshafiq98#python)
         - [Principal Component Analysis (PCA) of boba pearls](https://github.com/amirulshafiq98#principal-component-analysis-pca-of-boba-pearls)
-        - [Simple calculator for Texture Profile Analysis (TPA)](https://github.com/amirulshafiq98#simple-calculator-for-texture-profile-analysis-tpa)
+        - [Honey Analysis for Optimal Storage](https://github.com/amirulshafiq98#honey-analysis-for-optimal-storage)
+        - [University Allocation Based on WEF Report (2025)](https://github.com/amirulshafiq98#university-allocation-based-on-wef-report-2025)
+        - [Texture Profile Analysis (TPA) Calculator](https://github.com/amirulshafiq98#texture-profile-analysis-tpa-calculator)
 - [Education](https://github.com/amirulshafiq98#school-education)
 
-
-
-
-
-# :bar_chart: Portfolio Projects
-In  this section I will outline briefly about the various projects I have worked on and what tools I used to achieve my goals
+# 📌 Highlighted Projects
 
 ## SQL
+
 ### Olist E-commerce Data Exploration
 
-![Cafe Schema](https://github.com/user-attachments/assets/e9478e37-192e-436b-b85c-347f6858e318)
+![Olist E-commerce Schema](https://github.com/user-attachments/assets/b742b3d3-a93f-4870-8e9b-655eef152693)
 
-**Repo:** https://github.com/amirulshafiq98/olist-sales
+**Repository:** [Olist Sales](https://github.com/amirulshafiq98/olist-sales)
 
-**Goal:** Prepare data for visualisation to uncover sales insights of sellers and customers on the platform by product category, month and year
+**Objective:** Prepare data for visualisation to uncover sales insights of sellers and customers on the platform by product category, month, and year
 
-**Description:** This dataset was form Kaggle by Olist, a Brazillian e-commerce company that sells all sorts of things from furniture to food and drinks. The products were written in Portugese and had to be translated using the translation file in excel before querying. Steps taken were: data loading, cleaning, preprocessing and exploratory data analysis (EDA)
+**Description:** Utilised a Kaggle dataset from Olist, a Brazilian e-commerce company. Translated product categories from Portuguese using an Excel translation file. Performed data loading, cleaning, preprocessing, and exploratory data analysis (EDA)
 
-**Skills:** Data joining, temporary tables (CTEs), v-lookup, entity relationship diagram (ERD)
+**Skills:** Data joining, Common Table Expressions (CTEs), VLOOKUP, Entity Relationship Diagram (ERD)
 
-**Technology:** SSMS, Excel
+**Tools:** SQL Server Management Studio (SSMS), Excel
 
-**Results:** Generated 4 .csv files to be used for DAX in PowerBI with the necessary primary keys for filtering visuals 
+**Outcome:** Generated four CSV files for Power BI with necessary primary keys for filtering visuals
 
 ### Cafe Promotions Data Cleaning
 
-![Olist E-commerce Schema](https://github.com/user-attachments/assets/6faf6df5-11b6-4118-9d78-eda2bc50451a)
+![Cafe Schema](https://github.com/user-attachments/assets/e9478e37-192e-436b-b85c-347f6858e318)
 
-**Repo:** https://github.com/amirulshafiq98/cafe-promos
+**Repository:** [Cafe Promos](https://github.com/amirulshafiq98/cafe-promos)
 
-**Goal:** Prepare data for visualisation to determine which specific promotion had the most number of participations on a given day as well as a breakdown on the number of completions
+**Objective:** Prepare data for visualisation to determine which specific promotion had the most participations on a given day, along with a breakdown of completions
 
-**Description:** This dataset was from Maven Analytics and contains 8 different types of promotions of two kinds (Buy-one-get-one & Discount). All of the promos ran concurrently ending in either 5, 7 or 10 days after they were given out. The promotions were given to cafe members every 7 days. Each customer only received 1 promotion before they are entitled to another 7 days later (Day 24 the exception). Steps taken were: data loading, cleaning, preprocessing and exploratory data analysis (EDA)
+**Description:** Analysed a Maven Analytics dataset containing eight different promotions (Buy-One-Get-One & Discount). Promotions ran concurrently, ending in 5, 7, or 10 days. Each customer received one promotion every 7 days, with Day 24 as an exception. Conducted data loading, cleaning, preprocessing, and EDA
 
-**Skills:** Data cleaning, temporary tables (CTEs), entity relationship diagram (ERD), indexing, calculating 7-day moving average
+**Skills:** Data cleaning, CTEs, ERD, indexing, calculating 7-day moving averages
 
-**Technology:** MySQL
+**Tools:** MySQL
 
-**Results:** Generated 6 .csv files for visualisation in Tableau that corresponds to that given visual type (stacked bar chart, line chart, tree map and table)
+**Outcome:** Generated six CSV files for Tableau visualisations, including stacked bar charts, line charts, tree maps, and tables
 
-## Tableau and Power BI
+---
+
+## Visualisation (Tableau and Power BI)
 ### Cafe Promotions Daily Insights
 
 ![Overall](https://github.com/user-attachments/assets/eaf1bb01-2b88-474c-b035-c99bad541e04)
 
-**Repo:** https://github.com/amirulshafiq98/cafe-promos
+**Repository:** [Cafe Insights](https://github.com/amirulshafiq98/cafe-promos)
 
-**Goal:** Create a dashboard that shows which days have the most participations for a given promotion code and what percent of people claimed the promotion before it expires. 
+**Objective:** Create a dashboard showcasing daily participations for each promotion code and the percentage of claims before expiration.
 
-**Description:** Line-chart for total sales, stacked bar chart for total redemptions, tree map for customer date joined, horizontal stacked bar chart for average age-group and a table to show information of the different promotions over the 30 days
+**Description:** Developed a dashboard featuring line charts for total sales, stacked bar charts for redemptions, tree maps for customer join dates, horizontal stacked bar charts for average age groups, and tables displaying promotion details over 30 days.
 
-**Skills:** Filtering, tooltips, table with conditional formating, max-min markers on line chart
+**Skills:** Filtering, tooltips, conditional formatting, max-min markers on line charts
 
-**Technology:** Tableau Public
+**Tools:** Tableau Public
 
-**Results:** A dashboard that shows the information of the cafe promotions based on age-group, customer date joined, total sales and total redemptions
+**Outcome:** Delivered an interactive dashboard presenting promotion insights based on age group, customer join date, total sales, and redemptions.
+
+---
+
+### Superstore Data
+
+![Updated BI](https://github.com/user-attachments/assets/b4a53c24-aa30-481e-af83-f853f8080554)
+
+**Repository:** [Superstore Sales](https://github.com/amirulshafiq98/Superstore)
+
+**Objective:** Identify consumer trends and sales insights across different segments and product categories
+
+**Description:** Used a sample Superstore dataset to build a Power BI report featuring sales KPIs, segment-wise profit/loss analysis, and demographic visuals (e.g., waffle charts and customer location maps). Final dashboard highlights which segments to target based on profit margins and sales contribution
+
+**Skills:** Native waffle chart visualisation, KPI cards, bar graphs, area charts
+
+**Tools:** Power BI
+
+**Outcome:** Delivered a compelling dashboard story useful for internal sales and marketing teams
+
+---
 
 ### Olist E-commerce Sales Data
 
 ![Olist](https://github.com/user-attachments/assets/6cc8e351-309c-4def-b9a4-5aacb0dd5142)
 
-**Repo:** https://github.com/amirulshafiq98/olist-sales
+**Repository:** [Olist Sales](https://github.com/amirulshafiq98/olist-sales)
 
-**Goal:** Create a dashboard that shows information on sellers, products and customers that can be sorted by total sales or total orders across categories, months and years
+**Objective:** Visualise seller and customer behavior across Brazil from 2016 to 2018.
 
-**Description:** Horizontal bar charts for both seller and product, pie-chart for type of payment, tree map for customer city, line chart for total sales and review score in a star rating format.
+**Description:** Built Power BI dashboards showing delivery times, order statuses, customer satisfaction, and top-selling product categories by state and year. The data was prepared in SQL Server, cleaned, and joined before visualization
 
-**Skills:** Slicers, parameters, top N, month sorting, max-min markers on line chart
+**Skills:** DAX formulas, calculated columns, KPI cards, filters, slicers, star rating system
 
-**Technology:** PowerBI, DAX
+**Tools:** Power BI, SQL Server
 
-**Results:** A dashboard that shows total sales, total orders, AOV, and MoM growth. Sellers and products information were also visualised toggleable by either sales or orders
+**Outcome:** Created an interactive dashboard with dynamic filters by year, seller location, product category, and delivery time
+
+---
 
 ## Python
-### Principal Component Analysis (PCA) of boba pearls
 
-![PCA Biplot](https://github.com/user-attachments/assets/ac3568ce-6e99-4dd7-a738-f20baf6791ae)
+### Principal Component Analysis (PCA) of Boba Pearls
 
-**Repo:** https://github.com/amirulshafiq98/pca_2d
+![PCA Biplot](https://github.com/user-attachments/assets/575be2c8-bb36-4bd9-a3c0-c721a91f497b)
 
-**Goal:** Determine the best combination of additives to mimic the texture of high-GI tapioca boba pearls
+**Repository:** [PCA of Boba Pearls](https://github.com/amirulshafiq98/PCA_2d)
 
-**Description:** Different additives were added to tapioca starch based on design of experiments (DOE) to find out which combination(s) could retain the texture of tapioca boba pearls. A principal component analysis (PCA) graph was plotted along with a coefficient table to determine which combination(s) had the closests texture profile analysis (TPA) measures to a base tapioca boba pearl
+**Objective:** Reduce dimensionality of textural data from machine analysis and identify trials closest to a store-bought sample
 
-**Skills:** Data inference, plotting graphs, scaling values
+**Description:** Conducted PCA on force-based variables like hardness, cohesiveness, and springiness from tapioca pearl formulations. Also estimated the correlation factors of hardness, cohesiveness and chewiness for the different formulations to aid in more focussed trials during sensory evaluation
 
-**Technology:** matplotlib, scikitlearn, pandas, numpy
+**Skills:** PCA, matplotlib, seaborn, NumPy, scikit-learn, distance metrics
 
-**Results:** Plotted a PCA graph with trend lines for the different metrics accompanied with a correlation table to show which combination(s) additives are able to retain the textural properties of tapioca boba pearls
+**Outcome:** Identified optimal trial combinations and visualised product similarity for formulation development
 
-### Simple calculator for Texture Profile Analysis (TPA)
+---
 
-![Table](https://github.com/user-attachments/assets/8f941966-7ad6-43ae-8680-1945e0aaa361)
+### Honey Analysis for Optimal Storage
 
-**Repo:** https://github.com/amirulshafiq98/tpa_calculator
+![Bacillus](https://github.com/user-attachments/assets/73ac5db9-4f72-4771-b598-121c5ede8374)
 
-**Goal:** Calculate hardness, chewiness, springiness and cohesiveness from a two-bite compression graph
+**Repository:** [Honey Storage Recommendation](https://github.com/amirulshafiq98/honey)
 
-**Description:** A two-bite compression graph has two peaks which are used to calculate various textural properties of an object. The script is capable of choosing the correct points in the graph to calculate the various metrics by just providing an .xlsx file
+**Objective:** Identify optimal honey storage conditions by analysing microbial changes over 6 weeks
 
-**Skills:** Reading/loading files, indexing
+**Description:** Ran descriptive statistics, two-way ANOVA and Tukey HSD tests for honey stored in analyse microbial growth across temperatures (4°C, 25°C, 37°C) and conditions (aerobic vs. anaerobic). Final recommendation was tailored for bee farmers in Northern Thailand
 
-**Technology:** scipy, pandas, numpy
+**Skills:** Statsmodels (ANOVA), Seaborn, matplotlib, pandas
 
-**Results:** Calculation of TPA metrics was possible at a large scale as only the raw data had to be inputted into the script to achieve an accurate result
+**Outcome:** Provided a scientifically-backed recommendation on honey storage to reduce spoilage
 
+---
 
-# :school: Education
-Bachelor's (Honours) in Food Science and Technology from Singapore Institute of Technology **(Graduation in November 2025)**
+### University Allocation Based on WEF Report (2025)
 
+![Histogram](https://github.com/user-attachments/assets/547ae0b4-e766-4676-aa00-2319680fae04)
+
+**Repository:** [University Allocation Optimisation](https://github.com/amirulshafiq98/Uni_Allocation)
+
+**Objective:** Allocate students to majors using an optimisation model with realistic demand curves and constraints
+
+**Description:** Designed an Integer Linear Programming (ILP) model using PuLP, factoring in costs, major demand, and budget constraints. Simulated multiple demand curve options (exponential, sigmoid, power law) to model student preferences
+
+**Skills:** PuLP, matplotlib, numpy, pandas, ILP, smoothing
+
+**Outcome:** Produced visually realistic student allocation plans for use by education planners
+
+---
+
+### Texture Profile Analysis (TPA) Calculator
+
+![Texture-Analysis](https://github.com/user-attachments/assets/c1eceb73-02ab-4c23-8c60-26f9daeff65c)
+
+**Repository:** [TPA Calculator](https://github.com/amirulshafiq98/TPA_calculator)
+
+**Objective:** Automatically calculate food texture properties like hardness and springiness from force-time data.
+
+**Description:** Created a reusable script to extract key TPA metrics from CSV files generated by texture analysers. Includes automated smoothing, peak detection, and plotting.
+
+**Skills:** scipy, pandas, numpy
+
+**Outcome:** Able to automate the process of calculating TPA values in large datasets
+
+---
+
+## 🎓 Education
+
+**Bachelor (Tech) of Food Technology with Honours**  
+**Singapore Institute of Technology**  
+Expected Graduation: **October 2025**  
+Relevant Modules: Applied Data Science, Design of Experiments (DOE), Sensory Evaluation, Market Research, Python Programming
