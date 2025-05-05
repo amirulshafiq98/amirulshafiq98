@@ -1,7 +1,7 @@
 
 # 📊 Amirul Shafiq - Data Analytics Portfolio
 
-Hi, I'm Amirul — a data enthusiast with a Bachelor's in Food Technology from the Singapore Institute of Technology (graduating October 2025). Over the past four years, I've immersed myself in analysing diverse datasets to assess the viability of novel food products developed during my undergraduate studies. This experience honed my skills in data analysis and storytelling to effectively engage stakeholders.
+Hi, I'm Amirul — a data enthusiast with a Bachelor's in Food Technology from the Singapore Institute of Technology (convocation October 2025). Over the past four years, I've immersed myself in analysing diverse datasets to assess the viability of novel food products developed during my undergraduate studies. This experience honed my skills in data analysis and storytelling to effectively engage stakeholders.
 
 My pivotal moment came during an internship at Chiang Mai University, Thailand, where I assisted local beekeepers in determining optimal honey storage conditions. Despite collecting extensive data over 12 weeks, initial results were inconclusive. This challenge sparked my deep interest in data analysis, driving me to uncover actionable insights before returning to Singapore.
 
@@ -15,7 +15,7 @@ Beyond data, I enjoy exploring history, playing football (soccer), and continuou
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) <t/> ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <t/> ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) <t/> ![Tableau](https://img.shields.io/badge/Tableau-39477F?style=for-the-badge&logo=realm&logoColor=white) <t/> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <t/> ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) <t/> ![Google Workspace](https://img.shields.io/badge/Google_Workspace-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 # :blue_book: Table of Contents
-- [Portfolio Projects](https://github.com/amirulshafiq98#bar_chart-portfolio-projects)
+- [Portfolio Projects](https://github.com/amirulshafiq98#-highlighted-projects)
     - [SQL](https://github.com/amirulshafiq98#sql)
         - [Olist E-commerce Data Exploration](https://github.com/amirulshafiq98#olist-e-commerce-data-exploration)
         - [Cafe Promotions Data Cleaning](https://github.com/amirulshafiq98#cafe-promotions-data-cleaning)
@@ -28,7 +28,8 @@ Beyond data, I enjoy exploring history, playing football (soccer), and continuou
         - [Honey Analysis for Optimal Storage](https://github.com/amirulshafiq98#honey-analysis-for-optimal-storage)
         - [University Allocation Based on WEF Report (2025)](https://github.com/amirulshafiq98#university-allocation-based-on-wef-report-2025)
         - [Texture Profile Analysis (TPA) Calculator](https://github.com/amirulshafiq98#texture-profile-analysis-tpa-calculator)
-- [Education](https://github.com/amirulshafiq98#school-education)
+- [Education](https://github.com/amirulshafiq98#-education)
+- [Certification](https://github.com/amirulshafiq98#-certification)
 
 # 📌 Highlighted Projects
 
@@ -197,7 +198,7 @@ Beyond data, I enjoy exploring history, playing football (soccer), and continuou
 Expected Graduation: **October 2025**  
 Relevant Modules: Applied Data Science, Design of Experiments (DOE), Sensory Evaluation, Market Research, Python Programming
 
-## 📜 Certifications
+## 📜 Certification
 
 [Microsoft Excel Professional.pdf](https://github.com/user-attachments/files/20033883/Excel.pdf)
 
