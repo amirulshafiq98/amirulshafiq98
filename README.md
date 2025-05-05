@@ -1,5 +1,5 @@
 
-# 📊 Amirul Shafiq's Data Analytics Portfolio
+# 📊 Amirul Shafiq - Data Analytics Portfolio
 
 Hi, I'm Amirul — a data enthusiast with a Bachelor's in Food Technology from the Singapore Institute of Technology (graduating October 2025). Over the past four years, I've immersed myself in analysing diverse datasets to assess the viability of novel food products developed during my undergraduate studies. This experience honed my skills in data analysis and storytelling to effectively engage stakeholders.
 
@@ -192,6 +192,25 @@ Beyond data, I enjoy exploring history, playing football (soccer), and continuou
 ## 🎓 Education
 
 **Bachelor (Tech) of Food Technology with Honours**  
-**Singapore Institute of Technology**  
+***Singapore Institute of Technology (SIT)*** 
+
 Expected Graduation: **October 2025**  
 Relevant Modules: Applied Data Science, Design of Experiments (DOE), Sensory Evaluation, Market Research, Python Programming
+
+## 📜 Certifications
+
+[Microsoft Excel Professional.pdf](https://github.com/user-attachments/files/20033883/Excel.pdf)
+
+[Tableau Intelligence Analyst.pdf](https://github.com/user-attachments/files/20033884/Tableau.pdf)
+
+[Google Business Intelligence.pdf](https://github.com/user-attachments/files/20033855/BI.pdf)
+
+[Google Cloud Analytics.pdf](https://github.com/user-attachments/files/20033878/Cloud.pdf)
+
+[Google Advanced Data Analytics.pdf](https://github.com/user-attachments/files/20033879/Data.pdf)
+
+
+
+
+
+
