@@ -1,5 +1,5 @@
 
-# 📊 Amirul Shafiq - Data Analytics Portfolio
+# 📊 Amirul Shafiq - Analytics Portfolio
 
 Hi, I'm Amirul — a data enthusiast with a Bachelor's in Food Technology from the Singapore Institute of Technology (convocation October 2025). Over the past four years, I've immersed myself in analysing diverse datasets to assess the viability of novel food products developed during my undergraduate studies. This experience honed my skills in data analysis and storytelling to effectively engage stakeholders.
 
