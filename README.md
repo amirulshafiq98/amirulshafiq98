@@ -40,11 +40,11 @@ Here you will find my projects in Python, SQL and dashboarding (Tableau/Power BI
 
 # 📌 Highlighted Projects
 
-## MOE-JTA Data Processor
+## Organisation Data Processor
 
-<img src="https://github.com/user-attachments/assets/dc900f90-253d-4aea-8d76-067e19caa0c5" width="100%" />
+<img src="https://github.com/user-attachments/assets/f899843b-39c3-450a-b3ee-c27ea6385019" width="100%" />
 
-**Repository:** [MOE-JTA](https://github.com/amirulshafiq98/Work-Stuff/tree/main/MOE-JTA)
+**Repository:** [Data Processor App](https://github.com/amirulshafiq98/Work-Stuff/tree/main/Data%20Processor)
 
 **Objective:** Automate annual cleaning + transformation workflows for non-technical users
 
