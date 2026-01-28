@@ -18,7 +18,7 @@ Here you will find my projects in Python, SQL and dashboarding (Tableau/Power BI
 
 # :blue_book: Table of Contents
 - [Highlighted Projects](https://github.com/amirulshafiq98#-highlighted-projects)
-    - [Organisation Data Processor](https://github.com/amirulshafiq98#MOE-JTA-Data-Processor)
+    - [Organisation Data Processor](https://github.com/amirulshafiq98#Organisation-Data-Processor)
     - [University Allocation Based on WEF Report (2025)](https://github.com/amirulshafiq98#university-allocation-based-on-wef-report-2025)
     - [Mochi Ice-Cream Sensory Analysis](https://github.com/amirulshafiq98#mochi-ice-cream-sensory-analysis)
 - [More Projects](https://github.com/amirulshafiq98#more-projects)
