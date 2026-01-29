@@ -9,7 +9,7 @@ I got serious about data during my research internship in Chiang Mai, Thailand, 
 
 Here you will find my projects in Python, SQL and dashboarding (Tableau/Power BI).
 
-[![resume](https://img.shields.io/badge/resume-233c67?style=for-the-badge&)](https://drive.google.com/file/d/1IGMmaLnnzJNvhCa6661vu9-cgEqVvhd9/view?usp=drive_link) <t/> [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/shafiq-g/)
+[![resume](https://img.shields.io/badge/resume-233c67?style=for-the-badge&)](https://drive.google.com/file/d/1lgirNG5A2g7pMWy6MW-NSfOBxRbn0viX/view?usp=drive_link) <t/> [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/shafiq-g/)
 
 ---
 
@@ -90,8 +90,10 @@ Here you will find my projects in Python, SQL and dashboarding (Tableau/Power BI
 
 ### Python
 
-- [FitnessApp](https://github.com/amirulshafiq98/FitnessRank)
+- [TPA Calculator](https://github.com/amirulshafiq98/TPA_calculator)
+  
 - [Honey Storage Optimisation](https://github.com/amirulshafiq98/honey)
+  
 - [Boba Pearl Optimisation](https://github.com/amirulshafiq98/PCA_2d)
 
 ### SQL
