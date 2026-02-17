@@ -42,7 +42,7 @@ Here you will find my projects in Python, SQL and dashboarding (Tableau/Power BI
 
 ## Organisation Data Processor
 
-<img src="https://github.com/user-attachments/assets/f899843b-39c3-450a-b3ee-c27ea6385019" width="100%" />
+<img width="954" height="496" alt="updated1" src="https://github.com/user-attachments/assets/e471ccf2-3a24-4f4c-bbc0-9a559b6c5e51" />
 
 **Repository:** [Data Processor App](https://github.com/amirulshafiq98/Work-Stuff/tree/main/Data%20Processor)
 
