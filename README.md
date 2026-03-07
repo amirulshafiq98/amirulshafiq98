@@ -23,15 +23,15 @@ Here you will find my projects in Python, SQL and dashboarding (Tableau/Power BI
     - [Mochi Ice-Cream Sensory Analysis](https://github.com/amirulshafiq98#mochi-ice-cream-sensory-analysis)
 - [More Projects](https://github.com/amirulshafiq98#more-projects)
     - [Python](https://github.com/amirulshafiq98#python)
-        - [FitnessApp](https://github.com/amirulshafiq98#FitnessApp)
+        - [TPA Calculator](https://github.com/amirulshafiq98#tpa-calculator)
         - [Honey Storage Optimisation](https://github.com/amirulshafiq98#honey-storage-optimisation)
-        - [Boba Pearl Optimisation](https://github.com/amirulshafiq98#boba-pearl-optimisation)
+        - [Boba Pearl Sensory Science](https://github.com/amirulshafiq98#boba-pearl-sensory-science)
     - [SQL](https://github.com/amirulshafiq98#sql)
         - [Olist E-commerce Data Exploration](https://github.com/amirulshafiq98#olist-e-commerce-data-exploration)
         - [Cafe Promotions Data Cleaning](https://github.com/amirulshafiq98#cafe-promotions-data-cleaning)
         - [Mochi Sensory Database Setup](https://github.com/amirulshafiq98#mochi-sensory-database-setup)
     - [Visualisation (Tableau & Power BI)](https://github.com/amirulshafiq98#visualisation-tableau-and-power-bi)
-        - [Cafe Promotions Daily Insights](https://github.com/amirulshafiq98#cafe-promotions-daily-insights)
+        - [HR Attrition](https://github.com/amirulshafiq98#hr-attrition)
         - [Superstore Data](https://github.com/amirulshafiq98#superstore-data)
         - [Olist E-commerce Sales Data](https://github.com/amirulshafiq98#olist-e-commerce-sales-data)
     
@@ -94,24 +94,24 @@ Here you will find my projects in Python, SQL and dashboarding (Tableau/Power BI
   
 - [Honey Storage Optimisation](https://github.com/amirulshafiq98/honey)
   
-- [Boba Pearl Optimisation](https://github.com/amirulshafiq98/PCA_2d)
+- [Boba Pearl Sensory Science](https://github.com/amirulshafiq98/PCA_2d)
 
 ### SQL
 
-- [Olist Sales](https://github.com/amirulshafiq98/olist-sales)
+- [Olist E-commerce Data Exploration](https://github.com/amirulshafiq98/olist-sales)
 
-- [Cafe Promos](https://github.com/amirulshafiq98/cafe-promos)
+- [Cafe Promotions Data Cleaning](https://github.com/amirulshafiq98/cafe-promos)
 
-- [Mochi Ice cream](https://github.com/amirulshafiq98/mochi_icecream)
+- [Mochi Sensory Database Setup](https://github.com/amirulshafiq98/mochi_icecream)
 
 
 ### Visualisation (Tableau and Power BI)
 
 - [HR Attrition](https://github.com/amirulshafiq98/HR_Attrition)
 
-- [Superstore Sales](https://github.com/amirulshafiq98/Superstore)
+- [Superstore Data](https://github.com/amirulshafiq98/Superstore)
 
-- [Olist Sales](https://github.com/amirulshafiq98/olist-sales)
+- [Olist E-commerce Sales Data](https://github.com/amirulshafiq98/olist-sales)
 
 ---
 
