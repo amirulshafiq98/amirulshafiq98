@@ -1,15 +1,14 @@
-
-# 📊 Amirul Shafiq - Data & Automation Engineer Portfolio
+# 📊 Amirul Shafiq - Data & Analytics Engineer Portfolio <t/> [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/shafiq-g/)
 
 Hi, I’m Amirul 👋
 
-I’m an automation-focused data professional who enjoys building end-to-end data workflows from extraction and cleaning to validation and delivery. My experience spans consumer insights, supply chain, market research, and education operations.
+I am a Data & Analytics Engineer. I build workflows that take messy data and turn it into something usable for stakeholders. And I have done this in various environments.
 
-I got serious about data during my research internship in Chiang Mai, Thailand, where I worked on optimising honey storage conditions for local beekeepers. The data didn’t give easy answers at first, and that experience taught me the value of experimentation, debugging, and persistence. It also sparked my interest in building reliable, reusable data workflows and improving data quality
+Over the past year, I have written Python and SQL pipelines that replaced manual processes. I have even built entire GUI apps that facilitate data cleaning at scale. My philosophy of data cleaning is borrowed from Steve Jobs: the solution "just works".
+
+I got into the world of data during a research internship at Chiang Mai University, working on honey storage optimisation for local beekeepers. The data was inconsistent and difficult to interpret due to many factors that were outside of my control. That experience pushed me to be more careful and deliberate in how I work with inconsistent data to generate insights. This unforgettable project started my journey into the world of bringing order to chaos as we enter the 'Big Data' era.
 
 Here you will find my projects in Python, SQL and dashboarding (Tableau/Power BI).
-
-[![resume](https://img.shields.io/badge/resume-233c67?style=for-the-badge&)](https://drive.google.com/file/d/1lgirNG5A2g7pMWy6MW-NSfOBxRbn0viX/view?usp=drive_link) <t/> [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/shafiq-g/)
 
 ---
 
@@ -18,9 +17,10 @@ Here you will find my projects in Python, SQL and dashboarding (Tableau/Power BI
 
 # :blue_book: Table of Contents
 - [Highlighted Projects](https://github.com/amirulshafiq98#-highlighted-projects)
+    - [Entry Jobs Data Scraper](https://github.com/amirulshafiq98#entry-jobs-data-scraper) 
     - [Organisation Data Processor](https://github.com/amirulshafiq98#Organisation-Data-Processor)
+    - [Location Mapper FastAPI](https://github.com/amirulshafiq98#location-mapper-fastapi)
     - [University Allocation Based on WEF Report (2025)](https://github.com/amirulshafiq98#university-allocation-based-on-wef-report-2025)
-    - [Mochi Ice-Cream Sensory Analysis](https://github.com/amirulshafiq98#mochi-ice-cream-sensory-analysis)
 - [More Projects](https://github.com/amirulshafiq98#more-projects)
     - [Python](https://github.com/amirulshafiq98#python)
         - [TPA Calculator](https://github.com/amirulshafiq98#tpa-calculator)
@@ -40,7 +40,21 @@ Here you will find my projects in Python, SQL and dashboarding (Tableau/Power BI
 
 # 📌 Highlighted Projects
 
-## Organisation Data Processor
+## Entry Jobs Data Scraper
+
+<img width="1349" height="759" alt="pipeline" src="https://github.com/user-attachments/assets/4a4b9f77-e403-4ecc-b3fe-11aaa11e60bb"/>
+
+**Repository:** [Entry Jobs](https://github.com/amirulshafiq98/Entry_Jobs)
+
+**Objective:** Create a pipeline that can support an interactive chart that shows the most in-demand entry level jobs in Singapore in real time
+
+**Tech:** pandas, requests, prefect, duckdb, pyarrow, seaborn
+
+**Outcome:** A robust pipeline that can be hosted anywhere via Docker
+
+---
+
+# Organisation Data Processor
 
 <img width="954" height="496" alt="updated1" src="https://github.com/user-attachments/assets/e471ccf2-3a24-4f4c-bbc0-9a559b6c5e51" />
 
@@ -51,6 +65,20 @@ Here you will find my projects in Python, SQL and dashboarding (Tableau/Power BI
 **Tech:** tkinter, pandas, regex, pathlib
 
 **Outcome:** Reduced processing time from 5 hours → 30 minutes
+
+---
+
+# Location Mapper FastAPI (upgraded from the Excel Proximity Mapper)
+
+<img width="1152" height="834" alt="image" src="https://github.com/user-attachments/assets/d3415485-dc57-48f4-bb9e-63554f845204" />
+
+**Repository:** [Web-based Location Mapper](https://github.com/amirulshafiq98/Nearest_Places)
+
+**Objective:** Turn my [Excel-based proximity mapper](https://github.com/amirulshafiq98/Work-Stuff/tree/main/Location%20Mapper) into a web-based application
+
+**Tech:** fastapi, uvicorn, pandas, openpyxl, requests, pytest
+
+**Outcome:** More interactive version that does not require installation
 
 ---
 
@@ -67,22 +95,6 @@ Here you will find my projects in Python, SQL and dashboarding (Tableau/Power BI
 **Tech:** PuLP, matplotlib, numpy, pandas
 
 **Outcome:** Produced interpretable allocation plans useful for education planning
-
----
-
-## Mochi Ice-Cream Sensory Analysis
-
-![Boxplot](https://github.com/user-attachments/assets/cca2bcf0-b35f-46cb-9614-4b8769cddaa5)
-
-**Repository:** [Mochi Ice cream](https://github.com/amirulshafiq98/mochi_icecream)
-
-**Objective:** Build an analysis-ready pipeline to identify best-performing Mochi formulation
-
-**Methods:** Principal Component Analysis (PCA), K-Means Clustering, Data Visualization, Descriptive Statistics
-
-**Tech:** PostgreSQL, Scikit-learn, Pandas, Plotly, dbt, SQLAlchemy
-
-**Outcome:** Clean, normalised dataset powering PCA + clustering analytics
 
 ---
 
